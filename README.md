@@ -9,7 +9,7 @@
 
 ## Design:
 * Desktop:
-<img height="500em" src="./src/css/design/desktop-design.PNG" alt="Projeto Healthy - Versão Desktop">
+<img  src="./src/css/design/desktop-design.PNG" alt="Projeto Healthy - Versão Desktop">
 
 ## Tecnologias utilizadas:
 
